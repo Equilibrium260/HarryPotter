@@ -1,0 +1,5 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'>
+  <rect fill='#f0ad4e' width='400' height='400' rx='40' />
+  <text x='50%' y='44%' fill='#ffffff' font-family='Inter, Arial, sans-serif' font-size='96' font-weight='700' text-anchor='middle' dominant-baseline='middle'>PS</text>
+  <text x='50%' y='66%' fill='#ffffffaa' font-family='Inter, Arial, sans-serif' font-size='34' text-anchor='middle' dominant-baseline='middle'>Sprout</text>
+</svg>

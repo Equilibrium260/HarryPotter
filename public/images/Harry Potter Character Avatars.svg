@@ -1,0 +1,147 @@
+﻿<svg width="1400" height="800" viewBox="0 0 1400 800" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Background -->
+<rect width="1400" height="800" fill="#111"/>
+
+<!-- Utility: simple avatar generator -->
+<!-- Each avatar is 200x200 -->
+
+<!-- 1. Harry Potter -->
+<g transform="translate(0,0)">
+  <rect width="200" height="200" fill="#0b1020"/>
+  <circle cx="100" cy="70" r="40" fill="#f5cfa0"/>
+  <circle cx="82" cy="70" r="10" fill="none" stroke="#000" stroke-width="2"/>
+  <circle cx="118" cy="70" r="10" fill="none" stroke="#000" stroke-width="2"/>
+  <line x1="92" y1="70" x2="108" y2="70" stroke="#000" stroke-width="2"/>
+  <path d="M88 52 L92 44 L96 52" stroke="#5b3b1f" stroke-width="2" fill="none"/>
+  <rect x="60" y="110" width="80" height="70" rx="10" fill="#111"/>
+  <path d="M60 130 L140 130" stroke="#b71c1c" stroke-width="10"/>
+  <path d="M100 110 L100 180" stroke="#fdd835" stroke-width="6"/>
+</g>
+
+<!-- 2. Hermione Granger -->
+<g transform="translate(200,0)">
+  <rect width="200" height="200" fill="#1b1020"/>
+  <circle cx="100" cy="70" r="40" fill="#f5cfa0"/>
+  <path d="M60 60 Q100 10 140 60 Q130 110 70 110 Z" fill="#8d5524"/>
+  <rect x="60" y="110" width="80" height="70" rx="10" fill="#222"/>
+  <path d="M60 130 L140 130" stroke="#b71c1c" stroke-width="10"/>
+  <path d="M100 110 L100 180" stroke="#fdd835" stroke-width="6"/>
+</g>
+
+<!-- 3. Ron Weasley -->
+<g transform="translate(400,0)">
+  <rect width="200" height="200" fill="#101820"/>
+  <circle cx="100" cy="70" r="40" fill="#f5cfa0"/>
+  <path d="M60 55 Q100 20 140 55 Q130 90 70 90 Z" fill="#ff6f3c"/>
+  <rect x="60" y="110" width="80" height="70" rx="10" fill="#222"/>
+  <path d="M60 130 L140 130" stroke="#b71c1c" stroke-width="10"/>
+  <path d="M100 110 L100 180" stroke="#fdd835" stroke-width="6"/>
+</g>
+
+<!-- 4. Draco Malfoy -->
+<g transform="translate(600,0)">
+  <rect width="200" height="200" fill="#001b16"/>
+  <circle cx="100" cy="70" r="40" fill="#f5e0c8"/>
+  <path d="M60 55 Q100 20 140 55 Q130 90 70 90 Z" fill="#f5f5dc"/>
+  <rect x="60" y="110" width="80" height="70" rx="10" fill="#111"/>
+  <path d="M60 130 L140 130" stroke="#004d40" stroke-width="10"/>
+  <path d="M100 110 L100 180" stroke="#c0c0c0" stroke-width="6"/>
+</g>
+
+<!-- 5. Severus Snape -->
+<g transform="translate(800,0)">
+  <rect width="200" height="200" fill="#000814"/>
+  <circle cx="100" cy="70" r="40" fill="#e0c7a8"/>
+  <path d="M60 40 Q100 10 140 40 L140 100 Q100 120 60 100 Z" fill="#111"/>
+  <rect x="60" y="110" width="80" height="70" rx="10" fill="#111"/>
+  <path d="M60 130 L140 130" stroke="#263238" stroke-width="10"/>
+</g>
+
+<!-- 6. Albus Dumbledore -->
+<g transform="translate(1000,0)">
+  <rect width="200" height="200" fill="#1a237e"/>
+  <circle cx="100" cy="70" r="35" fill="#f5e0c8"/>
+  <path d="M65 45 Q100 10 135 45 L135 60 Q100 80 65 60 Z" fill="#b0bec5"/>
+  <rect x="60" y="110" width="80" height="70" rx="10" fill="#283593"/>
+  <path d="M80 80 Q100 130 120 80" stroke="#eceff1" stroke-width="8" fill="none"/>
+  <circle cx="85" cy="70" r="8" fill="none" stroke="#000" stroke-width="2"/>
+  <circle cx="115" cy="70" r="8" fill="none" stroke="#000" stroke-width="2"/>
+</g>
+
+<!-- 7. Minerva McGonagall -->
+<g transform="translate(1200,0)">
+  <rect width="200" height="200" fill="#004d40"/>
+  <circle cx="100" cy="70" r="35" fill="#f5e0c8"/>
+  <polygon points="60,30 140,30 120,60 80,60" fill="#263238"/>
+  <rect x="60" y="110" width="80" height="70" rx="10" fill="#004d40"/>
+  <path d="M60 130 L140 130" stroke="#00796b" stroke-width="10"/>
+</g>
+
+<!-- 8. Rubeus Hagrid -->
+<g transform="translate(0,200)">
+  <rect width="200" height="200" fill="#3e2723"/>
+  <circle cx="100" cy="70" r="35" fill="#e0c7a8"/>
+  <path d="M55 40 Q100 0 145 40 L145 120 Q100 150 55 120 Z" fill="#5d4037"/>
+  <rect x="55" y="110" width="90" height="70" rx="15" fill="#4e342e"/>
+</g>
+
+<!-- 9. Cedric Diggory -->
+<g transform="translate(200,200)">
+  <rect width="200" height="200" fill="#212121"/>
+  <circle cx="100" cy="70" r="35" fill="#f5e0c8"/>
+  <path d="M65 50 Q100 20 135 50 Q125 80 75 80 Z" fill="#6d4c41"/>
+  <rect x="60" y="110" width="80" height="70" rx="10" fill="#212121"/>
+  <path d="M60 130 L140 130" stroke="#fbc02d" stroke-width="10"/>
+  <path d="M100 110 L100 180" stroke="#fdd835" stroke-width="6"/>
+</g>
+
+<!-- 10. Luna Lovegood -->
+<g transform="translate(400,200)">
+  <rect width="200" height="200" fill="#4a148c"/>
+  <circle cx="100" cy="70" r="35" fill="#f5e0c8"/>
+  <path d="M60 50 Q100 10 140 50 Q135 100 65 100 Z" fill="#fdd835"/>
+  <circle cx="85" cy="70" r="9" fill="none" stroke="#ec407a" stroke-width="3"/>
+  <circle cx="115" cy="70" r="9" fill="none" stroke="#29b6f6" stroke-width="3"/>
+  <rect x="60" y="110" width="80" height="70" rx="10" fill="#6a1b9a"/>
+</g>
+
+<!-- 11. Neville Longbottom -->
+<g transform="translate(600,200)">
+  <rect width="200" height="200" fill="#263238"/>
+  <circle cx="100" cy="70" r="35" fill="#f5e0c8"/>
+  <path d="M65 50 Q100 20 135 50 Q125 85 75 85 Z" fill="#5d4037"/>
+  <rect x="60" y="110" width="80" height="70" rx="10" fill="#263238"/>
+  <path d="M60 130 L140 130" stroke="#b71c1c" stroke-width="10"/>
+  <path d="M100 110 L100 180" stroke="#fdd835" stroke-width="6"/>
+</g>
+
+<!-- 12. Ginevra Weasley -->
+<g transform="translate(800,200)">
+  <rect width="200" height="200" fill="#880e4f"/>
+  <circle cx="100" cy="70" r="35" fill="#f5e0c8"/>
+  <path d="M60 50 Q100 10 140 50 Q135 110 65 110 Z" fill="#ff7043"/>
+  <rect x="60" y="110" width="80" height="70" rx="10" fill="#ad1457"/>
+  <path d="M60 130 L140 130" stroke="#b71c1c" stroke-width="10"/>
+  <path d="M100 110 L100 180" stroke="#fdd835" stroke-width="6"/>
+</g>
+
+<!-- 13. Remus Lupin -->
+<g transform="translate(1000,200)">
+  <rect width="200" height="200" fill="#37474f"/>
+  <circle cx="100" cy="70" r="35" fill="#e0c7a8"/>
+  <path d="M65 50 Q100 20 135 50 Q125 85 75 85 Z" fill="#6d4c41"/>
+  <rect x="60" y="110" width="80" height="70" rx="10" fill="#455a64"/>
+  <path d="M80 130 L120 130" stroke="#cfd8dc" stroke-width="8"/>
+</g>
+
+<!-- 14. Filius Flitwick -->
+<g transform="translate(1200,200)">
+  <rect width="200" height="200" fill="#0d47a1"/>
+  <circle cx="100" cy="75" r="30" fill="#f5e0c8"/>
+  <path d="M70 60 Q100 30 130 60 Q120 85 80 85 Z" fill="#5d4037"/>
+  <rect x="70" y="110" width="60" height="60" rx="10" fill="#1565c0"/>
+  <path d="M70 125 L130 125" stroke="#90caf9" stroke-width="8"/>
+</g>
+
+</svg>

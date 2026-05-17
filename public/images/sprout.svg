@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500">
+  <rect width="400" height="500" rx="40" fill="#0f172a" />
+  <circle cx="200" cy="170" r="110" fill="#f8fafc" />
+  <path d="M115 145 C145 90 255 90 285 145 C285 175 250 180 200 180 C150 180 115 175 115 145 Z" fill="#16a34a" />
+  <path d="M130 150 C150 210 150 260 160 300 C180 360 220 360 240 300 C250 260 250 210 270 150" fill="#16a34a" opacity="0.9" />
+  <circle cx="160" cy="170" r="16" fill="#111827" />
+  <circle cx="240" cy="170" r="16" fill="#111827" />
+  <path d="M170 205 C190 215 210 215 230 205" stroke="#111827" stroke-width="8" fill="none" />
+  <path d="M185 240 C180 260 220 280 230 260" stroke="#16a34a" stroke-width="8" fill="none" />
+  <path d="M175 290 C190 310 210 310 225 290" fill="#16a34a" />
+  <text x="50%" y="450" text-anchor="middle" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Pomona Sprout</text>
+</svg>
